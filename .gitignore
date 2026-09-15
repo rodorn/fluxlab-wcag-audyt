@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+*.egg-info/
+.mypy_cache/
+.ruff_cache/
+
+# raporty wynikowe (nie commitujemy artefaktow)
+raporty/*.html
+raporty/*.pdf
+
+# lokalne / sekrety
+.env
+*.local
