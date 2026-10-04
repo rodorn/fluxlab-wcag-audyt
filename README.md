@@ -1,5 +1,7 @@
 # Audyt dostepnosci WCAG 2.2 (axe + raport)
 
+> Darmowy audyt strony w przeglądarce: [fluxlab.pl/audyt-strony](https://fluxlab.pl/audyt-strony?utm_source=github&utm_campaign=fluxlab-wcag-audyt)
+
 Produktyzowane narzedzie do automatycznego audytu dostepnosci cyfrowej stron WWW pod katem
 WCAG 2.2 (poziom A i AA), normy EN 301 549 oraz zgodnosci z Europejskim Aktem o Dostepnosci
 (EAA) i polska ustawa wdrazajaca. Skanuje strony silnikiem axe-core (przez pa11y), mapuje bledy
